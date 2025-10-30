@@ -33,7 +33,7 @@ wheels/
 !data/features/.gitkeep
 
 # Modelos entrenados
-models/*
+models/
 !models/.gitkeep
 
 # Resultados
