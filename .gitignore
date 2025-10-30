@@ -27,9 +27,7 @@ wheels/
 .ipynb_checkpoints
 
 # Datos
-data/raw/*
-data/processed/*
-data/features/*
+
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/features/.gitkeep
@@ -39,9 +37,7 @@ models/*
 !models/.gitkeep
 
 # Resultados
-results/figures/*
-results/metrics/*
-results/reports/*
+
 !results/figures/.gitkeep
 !results/metrics/.gitkeep
 !results/reports/.gitkeep
