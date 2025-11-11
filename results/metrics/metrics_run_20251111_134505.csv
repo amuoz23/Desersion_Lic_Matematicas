@@ -1,0 +1,2 @@
+accuracy,precision,recall,f1_score,tn,fp,fn,tp,n_neighbors,random_state,timestamp,iteration
+0.8789237668161435,0.8938356164383562,0.9190140845070423,0.90625,131,31,23,261,5,42,20251111_134505,0
